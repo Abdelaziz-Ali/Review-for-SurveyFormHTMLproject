@@ -1,56 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Review-for-SurveyFormHTMLproject
 
-> Description the project.
-
+> Performing a code review on a code from the project that completed during Microverse Admissions Trial, The original project i s about (Build a Survey Form) done by Luis Zubia (https://github.com/luigirazum/SurveyFormHTMLproject).
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
+- HTML.
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+to edit this project:
+- Clone the project.
+- Open the repository you cloned with a code editor that you like.
+- Edit the code as you want.
 
 ## Authors
 
-👤 **Author1**
+👤 **Review Done-by Abdelaziz Mohamed**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Abdelaziz-Ali](https://github.com/Abdelaziz-Ali)
+- Twitter: [@AbdelazizDV](https://twitter.com/AbdelazizDV)
+- LinkedIn: [/abdelaziz-ali-dev](https://www.linkedin.com/in/abdelaziz-ali-dev)
 
-👤 **Author2**
+👤 **Original Project Owner is Luis Zubia**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@luigirazum](https://github.com/luigirazum)
+- Twitter: [@luigirazum](https://twitter.com/luigirazum)
 
 ## 🤝 Contributing
 
@@ -64,12 +40,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank you goes for Luis Zubia - Original Project Owner, for sharing his code with me and allow the review.
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/Abdelaziz-Ali/Review-for-SurveyFormHTMLproject/blob/master/MIT.md) licensed.
